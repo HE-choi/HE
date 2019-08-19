@@ -1,9 +1,9 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ha-Eun Choi
 
 # Username (this should match the folder name)
-authors:
+authors:HE
 - admin
 
 # Is this the primary user of the site?
