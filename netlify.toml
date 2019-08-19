@@ -1,7 +1,7 @@
 [build]
   command = "hugo --themesDir ../../"
-  base    = "choi.netlify.com"
-  publish = "choi.netlify.com/public"
+  base    = "exampleSite"
+  publish = "exampleSite/public"
 
 [build.environment]
   HUGO_THEME = "repo"
