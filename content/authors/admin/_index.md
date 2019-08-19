@@ -3,7 +3,7 @@
 name: Ha-Eun Choi
 
 # Username (this should match the folder name)
-authors:HE
+authors: HE
 - admin
 
 # Is this the primary user of the site?
