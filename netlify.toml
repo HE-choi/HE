@@ -9,6 +9,3 @@
   
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.57.2" # if older, use format: 0.53 (no trailing zero)
-
-[context.production.environment]
-  HUGO_ENV = "production"
