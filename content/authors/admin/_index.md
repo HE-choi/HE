@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ha Eun
+name: Ha Eun Choi
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Michigan State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include international political economy.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- International Political Economy
+- International Organization
+- Comparative Political Economy
 
 education:
   courses:
