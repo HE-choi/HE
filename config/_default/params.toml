@@ -109,8 +109,8 @@ zoom = 15
 #plugins_css = []
 #plugins_js  = []
 
-plugins_css = plugins_css = ["custom"]
-plugins_js  = plugins_js = ["custom"]
+plugins_css = ["custom"]
+plugins_js  = ["custom"]
 
 ############################
 ## Advanced options       ##
